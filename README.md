@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💻 Studying IT at TU Dortmund
-- 🌐 Still figuring out ways to explore the internet !!
+- Studying IT at TU Dortmund
+- Still figuring out ways to explore the internet !!
 - 📍 Germany
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,git,github&perline=7)](https://skillicons.dev)

@@ -16,4 +16,4 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,git,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,dart,git,github,flutter&perline=7)](https://skillicons.dev)
